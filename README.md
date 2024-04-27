@@ -1,5 +1,7 @@
 <img width="1187" alt="Screenshot 2024-04-27 at 14 15 29" src="https://github.com/Satrasar/weather/assets/80197939/04da0ad1-ed69-4c64-a7c1-6c9aec5e51f3">
 
+### `npm i`
+download node module
 
 # Getting Started with Create React App
 
